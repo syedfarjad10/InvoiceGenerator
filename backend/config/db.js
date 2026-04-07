@@ -11,12 +11,6 @@ export const connectDB = async () => {
     }
 };
 
-// import mongoose from "mongoose";
-
-// export const connectDB = async ()=> {
-//   await mongoose.connect("mongodb+srv://farjadfarooqsyed_db_user:invoiceai@cluster0.huukpdn.mongodb.net/InvoiceAI")
-//   .then(() => {console.log("DB connected")})
-// }
 
 // ✨ Step-by-step Instructions (Follow Step 1, then Step 2, then Step 3, …)
 
