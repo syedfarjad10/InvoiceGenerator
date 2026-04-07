@@ -1,0 +1,20 @@
+# Database aur API Keys (Sabse Zaroori)
+.env
+backend/.env
+frontend/.env
+*.env
+
+# External Libraries (Inhe GitHub par upload nahi karte)
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Build aur Cache folders
+dist/
+build/
+.next/
+.cache/
+
+# OS related files
+.DS_Store
+Thumbs.db
